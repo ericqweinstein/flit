@@ -43,6 +43,9 @@ You'll also need a soldering iron, solder, desoldering braid (for fixing mistake
 * WiFly shield + RGB LED: ![RGB LED hookup](https://dlnmh9ip6v2uc.cloudfront.net/assets/2/6/a/0/7/52af8164757b7f83618b4568.jpg)
 * Arduino + pressure sensor: ![Pressure sensor hookup](https://dlnmh9ip6v2uc.cloudfront.net/assets/e/7/2/5/5/50eb2efece395ffb21000001.jpg)
 
+# In Action
+![Check it out!](https://pbs.twimg.com/media/BqWiV5ZCEAAt_Uw.jpg)
+
 ## High-Level Instructions
 1. Assemble the Freeduino and ensure it's working (connect to your computer, and try the "Blink" sketch under File > Examples > Basics > Blink). Skip this step if you have a pre-assembled Arduino.
 2. Solder the stackable headers to the WiFly shield. Mount it on the Arduino and run the WiFly sketches as outlined in the above WiFly tutorial to ensure it works.
