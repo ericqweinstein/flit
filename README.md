@@ -78,4 +78,4 @@ The WiFly shield hardware is licensed under [Creative Commons Share-alike 3.0](h
 The WiFly shield software is licensed under the [LGPL](http://www.gnu.org/copyleft/lesser.html).
 This project is based on [work by Daniel Kronovet](https://github.com/kronosapiens/C3PO), which is licensed under the [GPL 2.0](http://www.gnu.org/licenses/gpl-2.0.html).
 
-Everything else © 2015 Eric Weinstein, distributed under the MIT License (see LICENSE).
+Everything else © 2017 Eric Weinstein, distributed under the MIT License (see LICENSE).
